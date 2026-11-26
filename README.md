@@ -1,4 +1,4 @@
-# AstroVision
+# AstroVision (AstraVision)
 
 AstroVision is a beginner-friendly Python application for exploring
 astronomical images and searching real TESS observations for possible
